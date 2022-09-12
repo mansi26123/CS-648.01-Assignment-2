@@ -7,7 +7,7 @@ The website has been divided into sections of the header, footer, body sections 
 3. solutions
 4. contact-us
 
-All the pages have been included with the image tag with referencing that lands user to the pages. 
+All the pages have been included with the image tag with referencing that lands user to the pages.
 ### Tag used
 - img
 - a
